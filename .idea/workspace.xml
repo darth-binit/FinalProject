@@ -4,27 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d07928f-e497-452a-b4f6-b80e627d1691" name="Changes" comment="First push to final project" />
+    <list default="true" id="6d07928f-e497-452a-b4f6-b80e627d1691" name="Changes" comment="First push to final project">
+      <change afterPath="$PROJECT_DIR$/.idea/easycode.ignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML_Project_Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Mid_Report/ML_Project_Report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML_Project_ppt.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Mid_Report/ML_Project_ppt.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "darth-binit"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;darth-binit&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/darth-binit/FinalProject",
-    "accountId": "916d436f-0deb-4e60-8cc9-ebd45cdc4825"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/darth-binit/FinalProject&quot;,
+    &quot;accountId&quot;: &quot;916d436f-0deb-4e60-8cc9-ebd45cdc4825&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -46,6 +59,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Mid_Report" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,7 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741935946650</updated>
-      <workItem from="1741935949140" duration="2630000" />
+      <workItem from="1741935949140" duration="3207000" />
+      <workItem from="1742492439957" duration="4950000" />
     </task>
     <task id="LOCAL-00001" summary="First push to final project">
       <option name="closed" value="true" />
@@ -96,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741938928226</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First push to final project">
+      <option name="closed" value="true" />
+      <created>1741939500439</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741939500439</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
